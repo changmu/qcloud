@@ -1,0 +1,13 @@
+{
+    "innerName1": {
+        "md5": "xxx",
+        "md5_checked": true,
+        "tot_len": 102400,
+        "rcv_len": 51200,
+        // "opened": true,
+        "ref_path": [
+            "qiu/movie/1.mkv",
+            "zhang/movie/2.mkv"
+        ]
+    }
+}

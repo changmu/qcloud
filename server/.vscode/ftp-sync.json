@@ -1,0 +1,19 @@
+{
+    "remotePath": "/root/qcloud",
+    "host": "192.168.63.10",
+    "username": "root",
+    "password": "password",
+    "port": 22,
+    "secure": true,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": "C:/Users/qiu/.ssh/id_rsa",
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ]
+}
